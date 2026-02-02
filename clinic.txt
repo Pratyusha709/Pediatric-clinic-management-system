@@ -1,0 +1,344 @@
+Appointment for piyu is DELETED by user
+--------------------------------
+
+Appointment for piyu is DELETED by user
+--------------------------------
+
+Appointment Status : BOOKED
+Appointment Slot   : 5
+--------------------------------
+
+-------------------------------
+Baby Name     : piyu
+Blood Group   : o+
+Parent Name   : pratibha
+Contact No    : 9921180116
+Service Used  : 1
+-------------------------------
+
+Given    : Pentavalent-1
+Pending  : Rotavirus
+Given    : OPV-1
+Pending  : DTap
+Appointment Status : BOOKED
+Appointment Slot   : 4
+--------------------------------
+
+-------------------------------
+Baby Name     : harshu
+Blood Group   : b+
+Parent Name   : pratibha
+Contact No    : 9921180116
+Service Used  : 2
+-------------------------------
+
+-------------------------------
+Baby Name     : pranavi
+Blood Group   : a+
+Parent Name   : pradnya
+Contact No    : 9867341208
+Service Used  : 3
+-------------------------------
+
+Appointment Status : BOOKED
+Appointment Slot   : 4
+--------------------------------
+
+Appointment Status : BOOKED
+Appointment Slot   : 9
+--------------------------------
+
+-------------------------------
+Baby Name     : priya
+Blood Group   : o+
+Parent Name   : akshay
+Contact No    : 8722314590
+Service Used  : 5
+-------------------------------
+
+Appointment for harshu is DELETED by user
+--------------------------------
+
+-------------------------------
+Baby Name     : pratiksha
+Blood Group   : a-
+Parent Name   : gauri
+Contact No    : 986672341
+Service Used  : 1
+-------------------------------
+
+Appointment Status : BOOKED
+Appointment Slot   : 3
+--------------------------------
+
+Given    : Pentavalent-1
+Pending  : Rotavirus
+Given    : OPV-1
+Pending  : DTap
+-------------------------------
+Baby Name     : harshali
+Blood Group   : o+
+Parent Name   : surabhi
+Contact No    : 9867452051
+Service Used  : 1
+Appointment Status : BOOKED
+Appointment Slot   : 9
+--------------------------------
+
+Given    : Booster Dose
+Pending  : Tetanus
+--------------------------------
+
+-------------------------------
+Baby Name     : gargi
+Blood Group   : b-
+Parent Name   : kalyani
+Contact No    : 8677201479
+Service Used  : 1
+Appointment Status : NOT BOOKED
+--------------------------------
+
+--------------------------------
+
+Given    : Pentavalent-1
+Pending  : Rotavirus
+Given    : OPV-1
+Pending  : DTap
+--------------------------------
+
+-------------------------------
+Baby Name     : nisha
+Blood Group   : ab+
+Parent Name   : mrunmayee
+Contact No    : 9778601452
+Service Used  : 1
+Appointment Status : BOOKED
+Appointment Slot   : 8
+Given    : Pentavalent-2
+Pending  : Measles
+Given    : OPV-2
+Pending  : IPV
+--------------------------------
+
+-------------------------------
+Baby Name     : prisha
+Blood Group   : ab+
+Parent Name   : jayshree
+Contact No    : 9885643107
+Service Used  : 5
+Appointment Status : BOOKED
+Appointment Slot   : 4
+-------------------------------
+
+-------------------------------
+Baby Name     : lisa
+Blood Group   : ab-
+Parent Name   : manish
+Contact No    : 9956210047
+Service Used  : 3
+-------------------------------
+
+-------------------------------
+Baby Name     : yuvi
+Blood Group   : o+
+Parent Name   : yashshree
+Contact No    : 8845012679
+Service Used  : 2
+Appointment Status : BOOKED
+Appointment Slot   : 8
+-------------------------------
+
+-------------------------------
+Baby Name     : ojasee
+Blood Group   : a+
+Parent Name   : mahi
+Contact No    : 9921180115
+Service Used  : 1
+Appointment Status : BOOKED
+Appointment Slot   : 9
+Given    : Tetanus
+Pending  : Varicella
+--------------------------------
+
+
+-------------------------------
+Baby Name     : rahee
+Blood Group   : o-
+Parent Name   : yash
+Contact No    : 9922450168
+Service Used  : 4
+Appointment Status : BOOKED
+Appointment Slot   : 5
+-------------------------------
+
+-------------------------------
+Baby Name     : pratyusha
+Blood Group   : 0+
+Parent Name   : pratibha
+Contact No    : 9209480311
+Service Used  : 4
+Appointment Status : NOT BOOKED
+-------------------------------
+
+Appointment for prisha is DELETED by user
+--------------------------------
+
+-------------------------------
+Baby Name     : Pratyusha
+Blood Group   : o+
+Parent Name   : Pratibha
+Contact No    : 9921180116
+Service Used  : 1
+Appointment Status : BOOKED
+Appointment Slot   : 8
+Given    : Pentavalent-2
+Pending  : Measles
+Given    : OPV-2
+Pending  : IPV
+--------------------------------
+
+-------------------------------
+Baby Name     : Praharsha
+Blood Group   : b+
+Parent Name   : Abhijeet
+Contact No    : 9209480311
+Service Used  : 2
+Appointment Status : BOOKED
+Appointment Slot   : 5
+-------------------------------
+
+-------------------------------
+Baby Name     : Vihaan
+Blood Group   : ab+
+Parent Name   : Pradnya
+Contact No    : 8459610860
+Service Used  : 3
+-------------------------------
+
+-------------------------------
+Baby Name     : Pranavee
+Blood Group   : b-
+Parent Name   : vijay
+Contact No    : 9422319370
+Service Used  : 4
+Appointment Status : BOOKED
+Appointment Slot   : 2
+-------------------------------
+
+-------------------------------
+Baby Name     : anika
+Blood Group   : a-
+Parent Name   : wanita
+Contact No    : 7724165593
+Service Used  : 5
+Appointment Status : BOOKED
+Appointment Slot   : 7
+-------------------------------
+
+Appointment for Pratyusha is DELETED 
+--------------------------------
+
+-------------------------------
+Baby Name     : gaurav
+Blood Group   : 0+
+Parent Name   : adit
+Contact No    : 9077654433
+Service Used  : 5
+Appointment Status : BOOKED
+Appointment Slot   : 10
+-------------------------------
+
+-------------------------------
+Baby Name     : Harshu
+Blood Group   : b+
+Parent Name   : Pratibha
+Contact No    : 9921180116
+Service Used  : 5
+Appointment Status : BOOKED
+Appointment Slot   : 3
+Appointment Day    : Wednesday
+Appointment Date   : 28-01-2026
+Appointment Time   : 11:15 AM
+-------------------------------
+
+-------------------------------
+Baby Name     : Priya
+Blood Group   : o+
+Parent Name   : Pratibha
+Contact No    : 9209480311
+Service Used  : 1
+Appointment Status : BOOKED
+Appointment Slot   : 8
+Appointment Status : BOOKED
+Appointment Day    : Wednesday
+Appointment Date   : 28-01-2026
+Appointment Time   : 04:45 PM
+Given    : Pentavalent-1
+Pending  : Rotavirus
+Given    : OPV-1
+Pending  : DTap
+--------------------------------
+
+-------------------------------
+Baby Name     : Vihan
+Blood Group   : a+
+Parent Name   : Pradnya
+Contact No    : 9867223015
+Service Used  : 2
+Appointment Status : BOOKED
+Appointment Slot   : 4
+Appointment Day    : Wednesday
+Appointment Date   : 28-01-2026
+Appointment Time   : 12:00 PM
+-------------------------------
+
+-------------------------------
+Baby Name     : Pranavee
+Blood Group   : b-
+Parent Name   : vijay
+Contact No    : 9730965450
+Service Used  : 3
+-------------------------------
+
+-------------------------------
+Baby Name     : Sriya
+Blood Group   : ab+
+Parent Name   : sakshi
+Contact No    : 9856114703
+Service Used  : 4
+Appointment Status : BOOKED
+Appointment Slot   : 7
+Appointment Day    : Wednesday
+Appointment Date   : 28-01-2026
+Appointment Time   : 10:00 AM
+-------------------------------
+
+Appointment for priya is DELETED
+--------------------------------
+
+-------------------------------
+Baby Name     : Shivtej
+Blood Group   : ab+
+Parent Name   : Pratyusha
+Contact No    : 9209480311
+Service Used  : 5
+Appointment Status : BOOKED
+Appointment Slot   : 4
+Appointment Day    : Wednesday
+Appointment Date   : 28-01-2026
+Appointment Time   : 12:30 PM
+-------------------------------
+
+-------------------------------
+Baby Name     : Kedar
+Blood Group   : b+
+Parent Name   : Prisha
+Contact No    : 9860490115
+Service Used  : 5
+Appointment Status : BOOKED
+Appointment Slot   : 5
+Appointment Day    : Wednesday
+Appointment Date   : 28-01-2026
+Appointment Time   : 01:00 PM
+-------------------------------
+
